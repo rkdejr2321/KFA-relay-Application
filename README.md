@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> &nbsp
-</p><br>
+</p>
 <div>
   <h3> 개요 </h3> <br>
   <h4> 공식 KFA 공식 어플리케이션이 이미 있지만 대다수의 사람들이 사용하기에는 큰 기능이 없다.
