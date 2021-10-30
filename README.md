@@ -15,7 +15,7 @@
 </div>
 
 ### 화면구성
-<table>
+<table style="margin-left: auto; margin-right: auto;">
    <tr>
       <td>Main</td><td>Main</td><td>Main</td>
   </tr>
