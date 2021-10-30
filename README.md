@@ -15,4 +15,4 @@
 </div>
 
 ### 화면구성
-![initial](https://user-images.githubusercontent.com/77061558/139536582-cfffe5e1-4cb6-4a01-be79-bbf02e9c63eb.png)
+<img src = "https://user-images.githubusercontent.com/77061558/139536582-cfffe5e1-4cb6-4a01-be79-bbf02e9c63eb.png" width="200" height ="400"/>
