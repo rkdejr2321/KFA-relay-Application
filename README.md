@@ -27,4 +27,4 @@
 
 
 
-[여기를 클릭하세요]: http://www.google.com  
+[여기를 클릭하세요]: https://rkdejr2321.github.io/project/KFA/
