@@ -15,5 +15,10 @@
 </div>
 
 ### 화면구성
+|Main|Game_Info|Depth|
+|:------:|:-------:|:-------:|
+|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|
+|**Community**|**Post&Reply**|**postUpload**|
+|![Screenshot_1635850102](https://user-images.githubusercontent.com/77061558/139837172-45ced5a1-2def-4045-a179-fb938184425e.png)|![Screenshot_1635851988](https://user-images.githubusercontent.com/77061558/139837176-35e3f79c-5507-4268-9cb8-5322d6d7eef7.png)|![Screenshot_1635850125](https://user-images.githubusercontent.com/77061558/139837202-5d78d215-6ae2-431b-9d08-7cbb966abcab.png)|
 
 
