@@ -15,7 +15,7 @@
 </div>
 
 ### 화면구성
-<table style = "table-layout:fixed">
+<table width=300 height=100 style="table-layout:fixed">
    <tr>
       <td>Main</td><td>Game</td><td>Players</td>
   </tr>
