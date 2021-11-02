@@ -15,7 +15,7 @@
 </div>
 
 ### 화면구성
-<table style="text-align: center;">
+<table>
    <tr>
       <td>Main</td><td>Game_Info</td><td>Player_Info</td>
   </tr>
