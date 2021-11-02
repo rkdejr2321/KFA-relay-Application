@@ -17,7 +17,7 @@
 ### 화면구성
 <table>
    <tr>
-      <td>Main</td><td>Game_Info</td><td>Player_Info</td>
+      <td>Main</td><td>Game</td><td>Players</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/77061558/139826245-44ad28ce-65bb-4306-8a05-979441ee1d46.png" /></td>
