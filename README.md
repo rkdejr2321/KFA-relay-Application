@@ -15,7 +15,7 @@
 </div>
 
 ### 화면구성
-|제목|내용|설명|
+|Main||Game||Depth|
 |:---:|:---:|:---:|
 |![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
