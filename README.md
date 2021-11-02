@@ -20,7 +20,7 @@
       <td>Main</td><td>Game</td><td>Players</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77061558/139826245-44ad28ce-65bb-4306-8a05-979441ee1d46.png" /></td>
+    <td><img src="https://user-images.githubusercontent.com/77061558/139826572-d5684a1b-6fed-4525-b5a8-dfeedc26e9b1.png" /></td>
     <td><img src="https://user-images.githubusercontent.com/77061558/139826245-44ad28ce-65bb-4306-8a05-979441ee1d46.png" /></td>
     <td><img src="https://user-images.githubusercontent.com/77061558/139826465-fc8420b8-e5fb-4cb2-bc13-6cacda27f799.png" /></td>
   </tr>
