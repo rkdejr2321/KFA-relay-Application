@@ -6,7 +6,7 @@
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp
- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> &nbsp
 </p><br>
 <div>
   <h3> 개요 </h3>
@@ -15,8 +15,5 @@
 </div>
 
 ### 화면구성
-|Main||Game||Depth|
-|:---:|:---:|:---:|
-|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|![Screenshot_1635603355](https://user-images.githubusercontent.com/77061558/139834128-f1cc4c26-297f-419a-bfd9-8bc6f94166ff.png)|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
+
+
